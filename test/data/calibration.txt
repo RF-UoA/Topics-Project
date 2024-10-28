@@ -1,2 +1,0 @@
-fov, fx, fy, image_width, image_height
-60, 0, 0, 1024, 1024
